@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clean</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml.
+    <title>oneNan</title>
+    <description>这里是简介
 </description>
     <link>http://yourdomain.com/clean/</link>
     <atom:link href="http://yourdomain.com/clean/feed.xml" rel="self" type="application/rss+xml"/>
